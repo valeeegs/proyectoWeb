@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/proyectoWeb/static/css/main.43299c45.css",
+    "main.js": "/proyectoWeb/static/js/main.5bd244db.js",
+    "static/media/logo.png": "/proyectoWeb/static/media/logo.372aa0e6be8ec5d88bb8.png",
+    "index.html": "/proyectoWeb/index.html",
+    "main.43299c45.css.map": "/proyectoWeb/static/css/main.43299c45.css.map",
+    "main.5bd244db.js.map": "/proyectoWeb/static/js/main.5bd244db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43299c45.css",
+    "static/js/main.5bd244db.js"
+  ]
+}
